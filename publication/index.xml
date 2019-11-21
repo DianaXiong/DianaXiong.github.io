@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
+    <title>Publications | Xiong Weidan</title>
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2019</copyright><lastBuildDate>Sun, 20 May 2018 00:00:00 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Remeshing of Architectural Surfaces Based on Clustering Joints</title>
+      <link>/publication/remeshing/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0800</pubDate>
+      <guid>/publication/remeshing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shape-Inspired Architectural Design</title>
+      <link>/publication/shape/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0800</pubDate>
+      <guid>/publication/shape/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
