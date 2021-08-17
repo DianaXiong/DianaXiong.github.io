@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pedro V. Sander | Xiong Weidan</title>
+    <title>Pedro V. Sander* | Xiong Weidan</title>
     <link>/authors/pedro-v.-sander/</link>
       <atom:link href="/authors/pedro-v.-sander/index.xml" rel="self" type="application/rss+xml" />
-    <description>Pedro V. Sander</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2019</copyright><lastBuildDate>Sun, 20 May 2018 00:00:00 +0800</lastBuildDate>
+    <description>Pedro V. Sander*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2021</copyright><lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Pedro V. Sander</title>
+      <title>Pedro V. Sander*</title>
       <link>/authors/pedro-v.-sander/</link>
     </image>
     
     <item>
-      <title>Remeshing of Architectural Surfaces Based on Clustering Joints</title>
+      <title>Rationalizing Architectural Surfaces Based on Clustering of Joints</title>
       <link>/publication/remeshing/</link>
-      <pubDate>Sun, 20 May 2018 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0800</pubDate>
       <guid>/publication/remeshing/</guid>
       <description></description>
     </item>

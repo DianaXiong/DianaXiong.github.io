@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="We introduce the problem of clustering the set of vertices in a given 3D mesh based on local neighbourhood properties, and re-meshing the input surface in order to further reduce the number of joint clusters. The problem is motivated by the need for value engineering in architectural projects.">
+  <meta name="description" content="We introduce the problem of clustering the set of vertices in a given 3D mesh. The problem is motivated by the need for value engineering in architectural projects. We first derive a max-norm based metric to estimate the geometric disparity between a given pair of vertices, and characterize the problem in terms of this measure. We show that this distance can be computed by using Sequential Quadratic Programming (SQP). Next we introduce two different algorithms for clustering the set of vertices on a given mesh, respectively based on two disparity measurements: max-norm and L2-norm based metric. An equivalence is established between mesh vertices and physical joints in an architectural mesh. By replacing individual joints by their equivalent cluster representative, the number of unique joints in the facade mesh, and therefore the fabrication cost, is dramatically reduced. Finally, we present an algorithm for remeshing a given surface in order to further reduce the number of joint clusters. The framework is tested for a set of real-world architectural surfaces to illustrate the effectiveness and utility of our approach. Overall, this approach tackles the important problem reducing fabrication cost of joints without modifying the underlying connectivity that was specified by the architect.">
 
   
   <link rel="alternate" hreflang="en-us" href="/publication/remeshing/">
@@ -107,21 +107,20 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Xiong Weidan">
   <meta property="og:url" content="/publication/remeshing/">
-  <meta property="og:title" content="Remeshing of Architectural Surfaces Based on Clustering Joints | Xiong Weidan">
-  <meta property="og:description" content="We introduce the problem of clustering the set of vertices in a given 3D mesh based on local neighbourhood properties, and re-meshing the input surface in order to further reduce the number of joint clusters. The problem is motivated by the need for value engineering in architectural projects."><meta property="og:image" content="/img/icon-192.png">
-  <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
+  <meta property="og:title" content="Rationalizing Architectural Surfaces Based on Clustering of Joints | Xiong Weidan">
+  <meta property="og:description" content="We introduce the problem of clustering the set of vertices in a given 3D mesh. The problem is motivated by the need for value engineering in architectural projects. We first derive a max-norm based metric to estimate the geometric disparity between a given pair of vertices, and characterize the problem in terms of this measure. We show that this distance can be computed by using Sequential Quadratic Programming (SQP). Next we introduce two different algorithms for clustering the set of vertices on a given mesh, respectively based on two disparity measurements: max-norm and L2-norm based metric. An equivalence is established between mesh vertices and physical joints in an architectural mesh. By replacing individual joints by their equivalent cluster representative, the number of unique joints in the facade mesh, and therefore the fabrication cost, is dramatically reduced. Finally, we present an algorithm for remeshing a given surface in order to further reduce the number of joint clusters. The framework is tested for a set of real-world architectural surfaces to illustrate the effectiveness and utility of our approach. Overall, this approach tackles the important problem reducing fabrication cost of joints without modifying the underlying connectivity that was specified by the architect."><meta property="og:image" content="/img/remeshing.png">
+  <meta property="twitter:image" content="/img/remeshing.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2018-05-20T00:00:00&#43;08:00">
+      <meta property="article:published_time" content="2021-06-20T00:00:00&#43;08:00">
     
-    <meta property="article:modified_time" content="2018-05-20T00:00:00&#43;08:00">
+    <meta property="article:modified_time" content="2021-06-20T00:00:00&#43;08:00">
   
 
   
@@ -147,10 +146,10 @@
     "@type": "WebPage",
     "@id": "/publication/remeshing/"
   },
-  "headline": "Remeshing of Architectural Surfaces Based on Clustering Joints",
+  "headline": "Rationalizing Architectural Surfaces Based on Clustering of Joints",
   
-  "datePublished": "2018-05-20T00:00:00+08:00",
-  "dateModified": "2018-05-20T00:00:00+08:00",
+  "datePublished": "2021-06-20T00:00:00+08:00",
+  "dateModified": "2021-06-20T00:00:00+08:00",
   
   "author": {
     "@type": "Person",
@@ -165,7 +164,7 @@
       "url": "/img/icon-512.png"
     }
   },
-  "description": "We introduce the problem of clustering the set of vertices in a given 3D mesh based on local neighbourhood properties, and re-meshing the input surface in order to further reduce the number of joint clusters. The problem is motivated by the need for value engineering in architectural projects."
+  "description": "We introduce the problem of clustering the set of vertices in a given 3D mesh. The problem is motivated by the need for value engineering in architectural projects. We first derive a max-norm based metric to estimate the geometric disparity between a given pair of vertices, and characterize the problem in terms of this measure. We show that this distance can be computed by using Sequential Quadratic Programming (SQP). Next we introduce two different algorithms for clustering the set of vertices on a given mesh, respectively based on two disparity measurements: max-norm and L2-norm based metric. An equivalence is established between mesh vertices and physical joints in an architectural mesh. By replacing individual joints by their equivalent cluster representative, the number of unique joints in the facade mesh, and therefore the fabrication cost, is dramatically reduced. Finally, we present an algorithm for remeshing a given surface in order to further reduce the number of joint clusters. The framework is tested for a set of real-world architectural surfaces to illustrate the effectiveness and utility of our approach. Overall, this approach tackles the important problem reducing fabrication cost of joints without modifying the underlying connectivity that was specified by the architect."
 }
 </script>
 
@@ -183,7 +182,7 @@
 
 
 
-  <title>Remeshing of Architectural Surfaces Based on Clustering Joints | Xiong Weidan</title>
+  <title>Rationalizing Architectural Surfaces Based on Clustering of Joints | Xiong Weidan</title>
 
 </head>
 
@@ -430,6 +429,15 @@
 
 
 
+<div class="article-header">
+  
+  
+  <img src="/img/remeshing.png" class="article-banner" alt="">
+  
+
+  
+</div>
+
 
 
 
@@ -439,7 +447,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Remeshing of Architectural Surfaces Based on Clustering Joints</h1>
+  <h1>Rationalizing Architectural Surfaces Based on Clustering of Joints</h1>
 
   
 
@@ -459,7 +467,7 @@
 
 
   
-  <span><a href="/authors/weidan-xiong/"><strong>Weidan Xiong</strong></a></span>, <span><a href="/authors/pedro-v.-sander/">Pedro V. Sander</a></span>, <span><a href="/authors/chong-mo-cheung/">Chong Mo Cheung</a></span>, <span><a href="/authors/ajay-joneja/">Ajay Joneja</a></span>
+  <span><a href="/authors/weidan-xiong/"><strong>Weidan Xiong</strong></a></span>, <span><a href="/authors/chong-mo-cheung/">Chong Mo Cheung</a></span>, <span><a href="/authors/pedro-v.-sander/">Pedro V. Sander*</a></span>, <span><a href="/authors/ajay-joneja/">Ajay Joneja*</a></span>
 
   </div>
   
@@ -471,7 +479,7 @@
     
       
     
-    May 2018
+    June 2021
   </span>
   
 
@@ -502,6 +510,45 @@
 
 
 
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://ieeexplore.ieee.org/document/9444836" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
 
   
 </div>
@@ -512,7 +559,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">We introduce the problem of clustering the set of vertices in a given 3D mesh based on local neighbourhood properties, and re-meshing the input surface in order to further reduce the number of joint clusters. The problem is motivated by the need for value engineering in architectural projects.</p>
+    <p class="pub-abstract">We introduce the problem of clustering the set of vertices in a given 3D mesh. The problem is motivated by the need for value engineering in architectural projects. We first derive a max-norm based metric to estimate the geometric disparity between a given pair of vertices, and characterize the problem in terms of this measure. We show that this distance can be computed by using Sequential Quadratic Programming (SQP). Next we introduce two different algorithms for clustering the set of vertices on a given mesh, respectively based on two disparity measurements: max-norm and L2-norm based metric. An equivalence is established between mesh vertices and physical joints in an architectural mesh. By replacing individual joints by their equivalent cluster representative, the number of unique joints in the facade mesh, and therefore the fabrication cost, is dramatically reduced. Finally, we present an algorithm for remeshing a given surface in order to further reduce the number of joint clusters. The framework is tested for a set of real-world architectural surfaces to illustrate the effectiveness and utility of our approach. Overall, this approach tackles the important problem reducing fabrication cost of joints without modifying the underlying connectivity that was specified by the architect.</p>
     
 
     
@@ -542,7 +589,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Computer-Aided Design. (Minor revision)</div>
+          <div class="col-12 col-md-9">IEEE Transactions on Visualization and Computer Graphics</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -573,7 +620,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/publication/remeshing/&amp;text=Remeshing%20of%20Architectural%20Surfaces%20Based%20on%20Clustering%20Joints" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/publication/remeshing/&amp;text=Rationalizing%20Architectural%20Surfaces%20Based%20on%20Clustering%20of%20Joints" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -586,7 +633,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/publication/remeshing/&amp;t=Remeshing%20of%20Architectural%20Surfaces%20Based%20on%20Clustering%20Joints" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/publication/remeshing/&amp;t=Rationalizing%20Architectural%20Surfaces%20Based%20on%20Clustering%20of%20Joints" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -599,7 +646,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Remeshing%20of%20Architectural%20Surfaces%20Based%20on%20Clustering%20Joints&amp;body=/publication/remeshing/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Rationalizing%20Architectural%20Surfaces%20Based%20on%20Clustering%20of%20Joints&amp;body=/publication/remeshing/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -612,7 +659,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/publication/remeshing/&amp;title=Remeshing%20of%20Architectural%20Surfaces%20Based%20on%20Clustering%20Joints" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/remeshing/&amp;title=Rationalizing%20Architectural%20Surfaces%20Based%20on%20Clustering%20of%20Joints" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -625,7 +672,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Remeshing%20of%20Architectural%20Surfaces%20Based%20on%20Clustering%20Joints%20/publication/remeshing/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Rationalizing%20Architectural%20Surfaces%20Based%20on%20Clustering%20of%20Joints%20/publication/remeshing/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -638,7 +685,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/publication/remeshing/&amp;title=Remeshing%20of%20Architectural%20Surfaces%20Based%20on%20Clustering%20Joints" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/publication/remeshing/&amp;title=Rationalizing%20Architectural%20Surfaces%20Based%20on%20Clustering%20of%20Joints" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -822,7 +869,7 @@
   
 
   <p class="powered-by">
-    XIONG WEIDAN&copy;2019 &middot; 
+    XIONG WEIDAN&copy;2021 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

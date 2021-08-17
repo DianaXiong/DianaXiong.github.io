@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiong Weidan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2019</copyright><lastBuildDate>Sun, 20 May 2018 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2021</copyright><lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Xiong Weidan</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Remeshing of Architectural Surfaces Based on Clustering Joints</title>
+      <title>Rationalizing Architectural Surfaces Based on Clustering of Joints</title>
       <link>/publication/remeshing/</link>
-      <pubDate>Sun, 20 May 2018 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0800</pubDate>
       <guid>/publication/remeshing/</guid>
       <description></description>
     </item>

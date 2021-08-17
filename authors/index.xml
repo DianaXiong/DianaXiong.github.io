@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2019</copyright><lastBuildDate>Sun, 20 May 2018 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2021</copyright><lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,15 +15,15 @@
     <item>
       <title>**Weidan Xiong**</title>
       <link>/authors/weidan-xiong/</link>
-      <pubDate>Sun, 20 May 2018 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0800</pubDate>
       <guid>/authors/weidan-xiong/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ajay Joneja</title>
+      <title>Ajay Joneja*</title>
       <link>/authors/ajay-joneja/</link>
-      <pubDate>Sun, 20 May 2018 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0800</pubDate>
       <guid>/authors/ajay-joneja/</guid>
       <description></description>
     </item>
@@ -31,15 +31,15 @@
     <item>
       <title>Chong Mo Cheung</title>
       <link>/authors/chong-mo-cheung/</link>
-      <pubDate>Sun, 20 May 2018 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0800</pubDate>
       <guid>/authors/chong-mo-cheung/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pedro V. Sander</title>
+      <title>Pedro V. Sander*</title>
       <link>/authors/pedro-v.-sander/</link>
-      <pubDate>Sun, 20 May 2018 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0800</pubDate>
       <guid>/authors/pedro-v.-sander/</guid>
       <description></description>
     </item>
@@ -57,13 +57,11 @@
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Hi, I&amp;rsquo;m Weidan Xiong. My chinese name is 熊卫丹.&lt;/p&gt;
+      <description>&lt;p&gt;I am currently a researcher fellow in HP-NTU Corp Lab, working with &lt;a href=&#34;https://personal.ntu.edu.sg/asjmzheng/&#34; target=&#34;_blank&#34;&gt;Prof. Jianmin Zheng&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;I am currently a researcher fellow in Nan Yang Technological University, &lt;a href=&#34;http://hp-ntucorplab.ntu.edu.sg/Pages/default.aspx&#34; target=&#34;_blank&#34;&gt;HP-NTU Corp Lab&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I obtained my Ph.D. in Department of Electronic and Computer Engineering, Hong Kong University of Science and Technology, under the supervision of &lt;a href=&#34;http://www.cse.ust.hk/~psander/&#34; target=&#34;_blank&#34;&gt;Prof. Pedro V. Sander&lt;/a&gt; and &lt;a href=&#34;https://ieda.ust.hk/dfaculty/ajay/&#34; target=&#34;_blank&#34;&gt;Prof. Ajay Joneja&lt;/a&gt;. &lt;/p&gt;
 
-&lt;p&gt;I obtained Ph.D. in Department of Electronic and Computer Engineering, Hong Kong University of Science and Technology under the supervision of &lt;a href=&#34;http://www.cse.ust.hk/~psander/&#34; target=&#34;_blank&#34;&gt;Prof. Pedro V.Sander&lt;/a&gt; and &lt;a href=&#34;https://ieda.ust.hk/dfaculty/ajay/&#34; target=&#34;_blank&#34;&gt;Prof. Ajay Joneja&lt;/a&gt;. &lt;/p&gt;
-
-&lt;p&gt;I received my B.Engineering. in Software Engineering from &lt;a href=&#34;http://www.hust.edu.cn/&#34; target=&#34;_blank&#34;&gt;Hua Zhong University of Science and Technology&lt;/a&gt; in 2014.&lt;/p&gt;
+&lt;p&gt;I received my B.Engineering. in Software Engineering from Hua Zhong University of Science and Technology.&lt;/p&gt;
 
 &lt;p&gt;&lt;font color=&#34;red&#34;&gt;I&amp;rsquo;m now looking for future position, reach me if you have interest!&lt;/font&gt;&lt;/p&gt;
 </description>
