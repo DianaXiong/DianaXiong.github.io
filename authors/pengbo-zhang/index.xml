@@ -5,12 +5,20 @@
     <link>/authors/pengbo-zhang/</link>
       <atom:link href="/authors/pengbo-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Pengbo Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2021</copyright><lastBuildDate>Tue, 20 Feb 2018 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2021</copyright><lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Pengbo Zhang</title>
       <link>/authors/pengbo-zhang/</link>
     </image>
+    
+    <item>
+      <title>ShapeArchit: Shape-inspired Architecture Design and Space Planning (under review)</title>
+      <link>/publication/shapearchit/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0800</pubDate>
+      <guid>/publication/shapearchit/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Shape-Inspired Architectural Design</title>

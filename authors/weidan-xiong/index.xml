@@ -5,7 +5,7 @@
     <link>/authors/weidan-xiong/</link>
       <atom:link href="/authors/weidan-xiong/index.xml" rel="self" type="application/rss+xml" />
     <description>**Weidan Xiong**</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2021</copyright><lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2021</copyright><lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>**Weidan Xiong**</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>ShapeArchit: Shape-inspired Architecture Design and Space Planning (under review)</title>
+      <link>/publication/shapearchit/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0800</pubDate>
+      <guid>/publication/shapearchit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rationalizing Architectural Surfaces Based on Clustering of Joints</title>
       <link>/publication/remeshing/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0800</pubDate>
       <guid>/publication/remeshing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Element Placement on 3D Surfaces (filed)</title>
+      <link>/publication/porepatent/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0800</pubDate>
+      <guid>/publication/porepatent/</guid>
       <description></description>
     </item>
     
