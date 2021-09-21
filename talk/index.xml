@@ -5,12 +5,20 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Presentations</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2021</copyright><lastBuildDate>Tue, 03 Nov 2020 09:30:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2021</copyright><lastBuildDate>Tue, 31 Aug 2021 16:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Presentations</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Architectural Design from Sketches</title>
+      <link>/talk/2021workshop/</link>
+      <pubDate>Tue, 31 Aug 2021 16:00:00 +0000</pubDate>
+      <guid>/talk/2021workshop/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Advances in Part Design with Addictive Manufacturing</title>
