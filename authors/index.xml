@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2021</copyright><lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2022</copyright><lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -121,9 +121,11 @@
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am currently a researcher fellow in &lt;a href=&#34;http://hp-ntucorplab.ntu.edu.sg/Pages/default.aspx&#34; target=&#34;_blank&#34;&gt;HP-NTU Digital Manufacturing Corporate Lab&lt;/a&gt;, under the supervision of &lt;a href=&#34;https://personal.ntu.edu.sg/asjmzheng/&#34; target=&#34;_blank&#34;&gt;Prof. Jianmin Zheng&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;I am currently an Associate Researcher within Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ). Before that, I was an R&amp;amp;D Engineer in Tencent and a Postdoctoral Researcher Fellow in HP-NTU Digital Manufacturing Corporate Lab under the supervision of &lt;a href=&#34;https://personal.ntu.edu.sg/asjmzheng/&#34; target=&#34;_blank&#34;&gt;Prof. Jianmin Zheng&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;I obtained my Ph.D. in the Department of Electronic and Computer Engineering, Hong Kong University of Science and Technology, under the supervision of &lt;a href=&#34;http://www.cse.ust.hk/~psander/&#34; target=&#34;_blank&#34;&gt;Prof. Pedro V. Sander&lt;/a&gt; and &lt;a href=&#34;https://ieda.ust.hk/dfaculty/ajay/&#34; target=&#34;_blank&#34;&gt;Prof. Ajay Joneja&lt;/a&gt;. And I received my B. Engineering. in Software Engineering from Hua Zhong University of Science and Technology.&lt;/p&gt;
+&lt;p&gt;I obtained my Ph.D. degree in Electronic and Computer Engineering from The Hong Kong University of Science and Technology, under the supervision of &lt;a href=&#34;http://www.cse.ust.hk/~psander/&#34; target=&#34;_blank&#34;&gt;Prof. Pedro V. Sander&lt;/a&gt; and &lt;a href=&#34;https://ieda.ust.hk/dfaculty/ajay/&#34; target=&#34;_blank&#34;&gt;Prof. Ajay Joneja&lt;/a&gt;. And I received my B. Engineering. in Software Engineering from Huazhong University of Science and Technology.&lt;/p&gt;
+
+&lt;p&gt;My research interests include Computer Graphics, CAD, and Architectural Geometry. My works have been published at journals and conference in Computer Graphics and CAD, e.g., IEEE TVCG, CAD, and ACM I3D.&lt;/p&gt;
 </description>
     </item>
     
