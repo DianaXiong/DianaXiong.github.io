@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiong Weidan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2022</copyright><lastBuildDate>Tue, 31 Aug 2021 16:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2022</copyright><lastBuildDate>Wed, 20 Jul 2022 00:00:00 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Xiong Weidan</title>
@@ -13,26 +13,26 @@
     </image>
     
     <item>
-      <title>Architectural Design from Sketches</title>
-      <link>/talk/2021workshop/</link>
-      <pubDate>Tue, 31 Aug 2021 16:00:00 +0000</pubDate>
-      <guid>/talk/2021workshop/</guid>
+      <title>Digital Product Design and Engineering Analysis Techniques, Chapter 2, Digital Manufacturing</title>
+      <link>/publication/3dpbook/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0800</pubDate>
+      <guid>/publication/3dpbook/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ShapeArchit: Shape-inspired Architecture Design with Space Planning</title>
       <link>/publication/shapearchit/</link>
-      <pubDate>Fri, 20 Aug 2021 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0800</pubDate>
       <guid>/publication/shapearchit/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Digital Product Design and Engineering Analysis Techniques, Chapter 2, The Industrialization of ‘Art to Part’ 3D Additive Printing</title>
-      <link>/publication/3dpbook/</link>
-      <pubDate>Tue, 20 Jul 2021 00:00:00 +0800</pubDate>
-      <guid>/publication/3dpbook/</guid>
+      <title>Architectural Design from Sketches</title>
+      <link>/talk/2021workshop/</link>
+      <pubDate>Tue, 31 Aug 2021 16:00:00 +0000</pubDate>
+      <guid>/talk/2021workshop/</guid>
       <description></description>
     </item>
     
