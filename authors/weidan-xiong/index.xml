@@ -5,7 +5,7 @@
     <link>/authors/weidan-xiong/</link>
       <atom:link href="/authors/weidan-xiong/index.xml" rel="self" type="application/rss+xml" />
     <description>**Weidan Xiong**</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2023</copyright><lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2023</copyright><lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>**Weidan Xiong**</title>
@@ -14,10 +14,28 @@
     
     <item>
       <title>ShapeArchit: Shape-inspired Architecture Design with Space Planning</title>
+      <link>/project/shapearchit/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/project/shapearchit/</guid>
+      <description>&lt;p&gt;Various techniques have been proposed to improve the level of automation in architectural design life-cycle. We present an interactive interface, along with geometric algorithms focused on designing early stage symbolic architecture. First, the architect specifies some simple shape requirements by inputting a few binary images that resemble the shape of the building from different viewpoints. These are used to generate a conceptual design that is guided by various aesthetic and structural requirements. Second, we explore an interactive technique in planning the inner space of the given architecture model. The architect specifies the ideal requirements on the key functional rooms by using instances of simple 3D primitive shapes. The pose and location of each instance are parameters in multi-objectives. By coupling this process together with the shape inspired exterior design process, we can construct good initial conceptual designs. To solve these problems, we develop modified cuckoo search algorithms. Furthermore, a novel iterative mesh smoothing algorithm that yields a smooth surface while preserving sharp creases and generating roof structures is also developed. Several examples are presented to illustrate the methodology and results. User studies based on a proposed dataset and interviews with domain experts have been carried out to demonstrate the usability and effectiveness of our system and algorithms.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ShapeArchit: Shape-inspired Architecture Design with Space Planning</title>
       <link>/publication/shapearchit/</link>
       <pubDate>Thu, 20 Jan 2022 00:00:00 +0800</pubDate>
       <guid>/publication/shapearchit/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Rationalizing Architectural Surfaces Based on Clustering of Joints</title>
+      <link>/project/remeshing/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/project/remeshing/</guid>
+      <description>&lt;p&gt;We introduce the problem of clustering the set of vertices in a given 3D mesh. The problem is motivated by the need for value engineering in architectural projects. We first derive a max-norm based metric to estimate the geometric disparity between a given pair of vertices, and characterize the problem in terms of this measure. We show that this distance can be computed by using Sequential Quadratic Programming (SQP). Next we introduce two different algorithms for clustering the set of vertices on a given mesh, respectively based on two disparity measurements: max-norm and L2-norm based metric. An equivalence is established between mesh vertices and physical joints in an architectural mesh. By replacing individual joints by their equivalent cluster representative, the number of unique joints in the facade mesh, and therefore the fabrication cost, is dramatically reduced. Finally, we present an algorithm for remeshing a given surface in order to further reduce the number of joint clusters. The framework is tested for a set of real-world architectural surfaces to illustrate the effectiveness and utility of our approach. Overall, this approach tackles the important problem reducing fabrication cost of joints without modifying the underlying connectivity that was specified by the architect.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -34,6 +52,15 @@
       <pubDate>Sat, 20 Mar 2021 00:00:00 +0800</pubDate>
       <guid>/patent/porepatent/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Shape-inspired Architecture Design</title>
+      <link>/project/shape/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/project/shape/</guid>
+      <description>&lt;p&gt;We introduce a method to design architectural buildings that are inspired by shapes of non-architectural forms. The user inputs a few binary images, each providing an indicative shape for the building from a different viewpoint. A discrete visual hull corresponding to each binary image is generated. A voxel model is then constructed by intersecting the hulls corresponding to the images. The shape of the voxel model depends on the parameters of the projections. Real buildings must also obey some topological and structural constraints. We develop a shape metric to evaluate a given design in terms of topological, functional and structural requirements of the building. This allows us to optimize the building shape as a function of the parameters of the projection. The optimization problem is solved by means of an improved cuckoo search metaheuristic. The resulting voxel model is converted into a mesh model. Finally, we apply a novel smoothing algorithm that produces a smooth surface while preserving sharp creases and roof structures. Several examples are presented in the paper to illustrate the methodology and results.&lt;/p&gt;
+</description>
     </item>
     
     <item>

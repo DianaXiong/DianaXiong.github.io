@@ -5,12 +5,21 @@
     <link>/authors/chong-mo-cheung/</link>
       <atom:link href="/authors/chong-mo-cheung/index.xml" rel="self" type="application/rss+xml" />
     <description>Chong Mo Cheung</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2023</copyright><lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2023</copyright><lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Chong Mo Cheung</title>
       <link>/authors/chong-mo-cheung/</link>
     </image>
+    
+    <item>
+      <title>Rationalizing Architectural Surfaces Based on Clustering of Joints</title>
+      <link>/project/remeshing/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/project/remeshing/</guid>
+      <description>&lt;p&gt;We introduce the problem of clustering the set of vertices in a given 3D mesh. The problem is motivated by the need for value engineering in architectural projects. We first derive a max-norm based metric to estimate the geometric disparity between a given pair of vertices, and characterize the problem in terms of this measure. We show that this distance can be computed by using Sequential Quadratic Programming (SQP). Next we introduce two different algorithms for clustering the set of vertices on a given mesh, respectively based on two disparity measurements: max-norm and L2-norm based metric. An equivalence is established between mesh vertices and physical joints in an architectural mesh. By replacing individual joints by their equivalent cluster representative, the number of unique joints in the facade mesh, and therefore the fabrication cost, is dramatically reduced. Finally, we present an algorithm for remeshing a given surface in order to further reduce the number of joint clusters. The framework is tested for a set of real-world architectural surfaces to illustrate the effectiveness and utility of our approach. Overall, this approach tackles the important problem reducing fabrication cost of joints without modifying the underlying connectivity that was specified by the architect.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Rationalizing Architectural Surfaces Based on Clustering of Joints</title>

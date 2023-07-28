@@ -49,16 +49,41 @@
   
   <url>
     <loc>/authors/w-xiong/</loc>
-    <lastmod>2022-07-20T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/6/</loc>
-    <lastmod>2022-07-20T00:00:00+08:00</lastmod>
+    <lastmod>2022-07-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/c-lange/</loc>
+    <lastmod>2022-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/book/</loc>
+    <lastmod>2022-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2022-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/t-zhou/</loc>
+    <lastmod>2022-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/y-ma/</loc>
+    <lastmod>2022-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/y-obata/</loc>
+    <lastmod>2022-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/6/</loc>
     <lastmod>2022-07-20T00:00:00+08:00</lastmod>
   </url>
   
@@ -73,42 +98,32 @@
   </url>
   
   <url>
-    <loc>/authors/t-zhou/</loc>
-    <lastmod>2022-07-20T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/y-ma/</loc>
-    <lastmod>2022-07-20T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/y-obata/</loc>
-    <lastmod>2022-07-20T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/weidan-xiong/</loc>
-    <lastmod>2022-01-20T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2022-01-20T00:00:00+08:00</lastmod>
+    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/ajay-joneja/</loc>
-    <lastmod>2022-01-20T00:00:00+08:00</lastmod>
+    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/pedro-v.-sander/</loc>
-    <lastmod>2022-01-20T00:00:00+08:00</lastmod>
+    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/pengbo-zhang/</loc>
+    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/shapearchit/</loc>
+    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
     <lastmod>2022-01-20T00:00:00+08:00</lastmod>
   </url>
   
@@ -129,7 +144,12 @@
   
   <url>
     <loc>/authors/chong-mo-cheung/</loc>
-    <lastmod>2021-06-20T00:00:00+08:00</lastmod>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/remeshing/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -168,6 +188,11 @@
   </url>
   
   <url>
+    <loc>/project/shape/</loc>
+    <lastmod>2018-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/1/</loc>
     <lastmod>2018-02-20T00:00:00+08:00</lastmod>
   </url>
@@ -179,6 +204,10 @@
   
   <url>
     <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/students/</loc>
   </url>
   
   <url>
