@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xiong Weidan</title>
+    <title>Weidan Xiong</title>
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Xiong Weidan</description>
+    <description>Weidan Xiong</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2023</copyright><lastBuildDate>Tue, 18 Jul 2023 00:00:00 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Xiong Weidan</title>
+      <title>Weidan Xiong</title>
       <link>/</link>
     </image>
     
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Digital Product Design and Engineering Analysis Techniques, Chapter 2, Digital Manufacturing</title>
+      <title>Digital Product Design and Engineering Analysis Techniques, Chapter 2</title>
       <link>/project/book/</link>
       <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
       <guid>/project/book/</guid>
