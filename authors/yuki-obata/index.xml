@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuki Obata | Weidan Xiong</title>
+    <link>/authors/yuki-obata/</link>
+      <atom:link href="/authors/yuki-obata/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuki Obata</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2023</copyright><lastBuildDate>Wed, 20 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Yuki Obata</title>
+      <link>/authors/yuki-obata/</link>
+    </image>
+    
+    <item>
+      <title>Digital Product Design and Engineering Analysis Techniques, Chapter 2</title>
+      <link>/project/book/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/project/book/</guid>
+      <description>&lt;p&gt;Digital Manufacturing: The Industrialization of &amp;ldquo;Art to Part&amp;rdquo; 3D Additive Printing explains everything needed to understand how recent advances in materials science, manufacturing engineering and digital design have integrated to create exciting new capabilities. Sections discuss relevant fundamentals in mechanical engineering and materials science and complex and practical topics in additive manufacturing, such as part manufacturing, all in the context of the modern digital design environment. Being successful in today’s &amp;ldquo;art to part&amp;rdquo; cyber-physical manufacturing age requires a strong grounding in science and engineering fundamentals as well as knowledge of the latest techniques, all of which readers will find here.&lt;/p&gt;
+
+&lt;p&gt;Every chapter is developed by leading specialists and based on first-hand experiences, capturing the essential knowledge readers need to solve problems related to digital manufacturing.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

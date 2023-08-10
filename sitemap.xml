@@ -3,6 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/authors/weidan-xiong/</loc>
+    <lastmod>2023-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2023-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/botao-peng/</loc>
+    <lastmod>2023-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/hongqian-zhang/</loc>
+    <lastmod>2023-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/hui-huang/</loc>
+    <lastmod>2023-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jianwei-guo/</loc>
+    <lastmod>2023-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2023-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/twintex/</loc>
+    <lastmod>2023-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2023-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yongli-wu/</loc>
+    <lastmod>2023-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ziyu-hu/</loc>
+    <lastmod>2023-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/%E7%86%8A%E5%8D%AB%E4%B8%B9/</loc>
     <lastmod>2023-07-18T00:00:00+08:00</lastmod>
   </url>
@@ -13,22 +68,12 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2023-07-18T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/patent/</loc>
     <lastmod>2023-07-18T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2023-07-18T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2023-07-18T00:00:00+08:00</lastmod>
   </url>
   
@@ -48,12 +93,7 @@
   </url>
   
   <url>
-    <loc>/authors/w-xiong/</loc>
-    <lastmod>2022-07-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/c-lange/</loc>
+    <loc>/authors/carlos-lange/</loc>
     <lastmod>2022-07-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,27 +103,32 @@
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>/authors/tianyu-zhou/</loc>
     <lastmod>2022-07-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/t-zhou/</loc>
+    <loc>/authors/yongsheng-ma/</loc>
     <lastmod>2022-07-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/y-ma/</loc>
+    <loc>/authors/yuki-obata/</loc>
     <lastmod>2022-07-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/y-obata/</loc>
-    <lastmod>2022-07-20T00:00:00+00:00</lastmod>
+    <loc>/authors/w-xiong/</loc>
+    <lastmod>2022-07-20T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/6/</loc>
+    <lastmod>2022-07-20T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/c-lange/</loc>
     <lastmod>2022-07-20T00:00:00+08:00</lastmod>
   </url>
   
@@ -98,8 +143,18 @@
   </url>
   
   <url>
-    <loc>/authors/weidan-xiong/</loc>
-    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
+    <loc>/authors/t-zhou/</loc>
+    <lastmod>2022-07-20T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/y-ma/</loc>
+    <lastmod>2022-07-20T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/y-obata/</loc>
+    <lastmod>2022-07-20T00:00:00+08:00</lastmod>
   </url>
   
   <url>

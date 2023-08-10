@@ -5,12 +5,68 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2023</copyright><lastBuildDate>Tue, 18 Jul 2023 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2023</copyright><lastBuildDate>Sat, 05 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>**Weidan Xiong**</title>
+      <link>/authors/weidan-xiong/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/weidan-xiong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Botao Peng</title>
+      <link>/authors/botao-peng/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/botao-peng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hongqian Zhang</title>
+      <link>/authors/hongqian-zhang/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/hongqian-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hui Huang*</title>
+      <link>/authors/hui-huang/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/hui-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jianwei Guo*</title>
+      <link>/authors/jianwei-guo/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/jianwei-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yongli Wu</title>
+      <link>/authors/yongli-wu/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/yongli-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ziyu Hu</title>
+      <link>/authors/ziyu-hu/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/ziyu-hu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>**熊卫丹**</title>
@@ -37,9 +93,41 @@
     </item>
     
     <item>
+      <title>Carlos Lange</title>
+      <link>/authors/carlos-lange/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/carlos-lange/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tianyu Zhou</title>
+      <link>/authors/tianyu-zhou/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/tianyu-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yongsheng Ma</title>
+      <link>/authors/yongsheng-ma/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/yongsheng-ma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuki Obata</title>
+      <link>/authors/yuki-obata/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/yuki-obata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>**W Xiong**</title>
       <link>/authors/w-xiong/</link>
-      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0800</pubDate>
       <guid>/authors/w-xiong/</guid>
       <description></description>
     </item>
@@ -47,7 +135,7 @@
     <item>
       <title>C Lange</title>
       <link>/authors/c-lange/</link>
-      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0800</pubDate>
       <guid>/authors/c-lange/</guid>
       <description></description>
     </item>
@@ -55,7 +143,7 @@
     <item>
       <title>T Zhou</title>
       <link>/authors/t-zhou/</link>
-      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0800</pubDate>
       <guid>/authors/t-zhou/</guid>
       <description></description>
     </item>
@@ -63,7 +151,7 @@
     <item>
       <title>Y Ma</title>
       <link>/authors/y-ma/</link>
-      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0800</pubDate>
       <guid>/authors/y-ma/</guid>
       <description></description>
     </item>
@@ -71,16 +159,8 @@
     <item>
       <title>Y Obata</title>
       <link>/authors/y-obata/</link>
-      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0800</pubDate>
       <guid>/authors/y-obata/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>**Weidan Xiong**</title>
-      <link>/authors/weidan-xiong/</link>
-      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/weidan-xiong/</guid>
       <description></description>
     </item>
     
