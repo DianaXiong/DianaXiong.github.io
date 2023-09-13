@@ -5,12 +5,20 @@
     <link>/patent/</link>
       <atom:link href="/patent/index.xml" rel="self" type="application/rss+xml" />
     <description>Patents</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2023</copyright><lastBuildDate>Tue, 18 Jul 2023 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2023</copyright><lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Patents</title>
       <link>/patent/</link>
     </image>
+    
+    <item>
+      <title>图像补全方法、装置、计算机设备和存储介质</title>
+      <link>/patent/textureinpainting/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0800</pubDate>
+      <guid>/patent/textureinpainting/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>一种用于纹理贴图的视角选择和纹理对齐方法及相关设备</title>
