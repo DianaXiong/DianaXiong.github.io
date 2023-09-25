@@ -5,12 +5,20 @@
     <link>/publication_types/8/</link>
       <atom:link href="/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
     <description>8</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2023</copyright><lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2023</copyright><lastBuildDate>Mon, 11 Sep 2023 00:00:00 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>8</title>
       <link>/publication_types/8/</link>
     </image>
+    
+    <item>
+      <title>基于扩散模型的建筑纹理贴图补全软件</title>
+      <link>/patent/texturesoftware/</link>
+      <pubDate>Mon, 11 Sep 2023 00:00:00 +0800</pubDate>
+      <guid>/patent/texturesoftware/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>图像补全方法、装置、计算机设备和存储介质</title>

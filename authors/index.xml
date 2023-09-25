@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2023</copyright><lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2023</copyright><lastBuildDate>Mon, 11 Sep 2023 00:00:00 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>**熊卫丹**</title>
       <link>/authors/%E7%86%8A%E5%8D%AB%E4%B8%B9/</link>
-      <pubDate>Fri, 08 Sep 2023 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 11 Sep 2023 00:00:00 +0800</pubDate>
       <guid>/authors/%E7%86%8A%E5%8D%AB%E4%B8%B9/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>彭博韬</title>
       <link>/authors/%E5%BD%AD%E5%8D%9A%E9%9F%AC/</link>
-      <pubDate>Fri, 08 Sep 2023 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 11 Sep 2023 00:00:00 +0800</pubDate>
       <guid>/authors/%E5%BD%AD%E5%8D%9A%E9%9F%AC/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>黄惠</title>
       <link>/authors/%E9%BB%84%E6%83%A0/</link>
-      <pubDate>Fri, 08 Sep 2023 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 11 Sep 2023 00:00:00 +0800</pubDate>
       <guid>/authors/%E9%BB%84%E6%83%A0/</guid>
       <description></description>
     </item>
