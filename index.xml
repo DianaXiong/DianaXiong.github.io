@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Weidan Xiong</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2023</copyright><lastBuildDate>Mon, 11 Sep 2023 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2023</copyright><lastBuildDate>Tue, 07 Nov 2023 00:00:00 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Weidan Xiong</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>纹理贴图的视角选择和纹理对齐软件</title>
+      <link>/patent/textureselectionsoftware/</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0800</pubDate>
+      <guid>/patent/textureselectionsoftware/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>基于扩散模型的建筑纹理贴图补全软件</title>

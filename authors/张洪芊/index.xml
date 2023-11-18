@@ -5,12 +5,20 @@
     <link>/authors/%E5%BC%A0%E6%B4%AA%E8%8A%8A/</link>
       <atom:link href="/authors/%E5%BC%A0%E6%B4%AA%E8%8A%8A/index.xml" rel="self" type="application/rss+xml" />
     <description>张洪芊</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2023</copyright><lastBuildDate>Tue, 18 Jul 2023 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2023</copyright><lastBuildDate>Tue, 07 Nov 2023 00:00:00 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>张洪芊</title>
       <link>/authors/%E5%BC%A0%E6%B4%AA%E8%8A%8A/</link>
     </image>
+    
+    <item>
+      <title>纹理贴图的视角选择和纹理对齐软件</title>
+      <link>/patent/textureselectionsoftware/</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0800</pubDate>
+      <guid>/patent/textureselectionsoftware/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>一种用于纹理贴图的视角选择和纹理对齐方法及相关设备</title>
