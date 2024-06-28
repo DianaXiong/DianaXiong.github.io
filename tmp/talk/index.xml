@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentations | Weidan Xiong</title>
+    <link>/tmp/talk/</link>
+      <atom:link href="/tmp/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Presentations</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2024</copyright><lastBuildDate>Tue, 31 Aug 2021 16:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Presentations</title>
+      <link>/tmp/talk/</link>
+    </image>
+    
+    <item>
+      <title>Architectural Design from Sketches</title>
+      <link>/tmp/talk/2021workshop/</link>
+      <pubDate>Tue, 31 Aug 2021 16:00:00 +0000</pubDate>
+      <guid>/tmp/talk/2021workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advances in Part Design with Additive Manufacturing</title>
+      <link>/tmp/talk/2020webinar/</link>
+      <pubDate>Tue, 03 Nov 2020 09:30:00 +0000</pubDate>
+      <guid>/tmp/talk/2020webinar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shape-Inspired Architecture Design</title>
+      <link>/tmp/talk/2018webinar/</link>
+      <pubDate>Sun, 06 May 2018 09:30:00 +0000</pubDate>
+      <guid>/tmp/talk/2018webinar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

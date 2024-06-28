@@ -14,25 +14,25 @@
     
     <item>
       <title>纹理贴图的视角选择和纹理对齐软件</title>
-      <link>/patent/textureselectionsoftware/</link>
+      <link>/tmp/patent/textureselectionsoftware/</link>
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0800</pubDate>
-      <guid>/patent/textureselectionsoftware/</guid>
+      <guid>/tmp/patent/textureselectionsoftware/</guid>
       <description></description>
     </item>
     
     <item>
       <title>基于扩散模型的建筑纹理贴图补全软件</title>
-      <link>/patent/texturesoftware/</link>
+      <link>/tmp/patent/texturesoftware/</link>
       <pubDate>Mon, 11 Sep 2023 00:00:00 +0800</pubDate>
-      <guid>/patent/texturesoftware/</guid>
+      <guid>/tmp/patent/texturesoftware/</guid>
       <description></description>
     </item>
     
     <item>
       <title>图像补全方法、装置、计算机设备和存储介质</title>
-      <link>/patent/textureinpainting/</link>
+      <link>/tmp/patent/textureinpainting/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0800</pubDate>
-      <guid>/patent/textureinpainting/</guid>
+      <guid>/tmp/patent/textureinpainting/</guid>
       <description></description>
     </item>
     
@@ -47,9 +47,9 @@
     
     <item>
       <title>一种用于纹理贴图的视角选择和纹理对齐方法及相关设备</title>
-      <link>/patent/textureselection/</link>
+      <link>/tmp/patent/textureselection/</link>
       <pubDate>Tue, 18 Jul 2023 00:00:00 +0800</pubDate>
-      <guid>/patent/textureselection/</guid>
+      <guid>/tmp/patent/textureselection/</guid>
       <description></description>
     </item>
     
@@ -91,9 +91,9 @@
     
     <item>
       <title>Architectural Design from Sketches</title>
-      <link>/talk/2021workshop/</link>
+      <link>/tmp/talk/2021workshop/</link>
       <pubDate>Tue, 31 Aug 2021 16:00:00 +0000</pubDate>
-      <guid>/talk/2021workshop/</guid>
+      <guid>/tmp/talk/2021workshop/</guid>
       <description></description>
     </item>
     
@@ -116,25 +116,25 @@
     
     <item>
       <title>Design Element Placement on 3D Surfaces</title>
-      <link>/patent/porepatent/</link>
+      <link>/tmp/patent/porepatent/</link>
       <pubDate>Sat, 20 Mar 2021 00:00:00 +0800</pubDate>
-      <guid>/patent/porepatent/</guid>
+      <guid>/tmp/patent/porepatent/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Advances in Part Design with Additive Manufacturing</title>
-      <link>/talk/2020webinar/</link>
+      <link>/tmp/talk/2020webinar/</link>
       <pubDate>Tue, 03 Nov 2020 09:30:00 +0000</pubDate>
-      <guid>/talk/2020webinar/</guid>
+      <guid>/tmp/talk/2020webinar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>/slides/example/</link>
+      <link>/tmp/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
+      <guid>/tmp/slides/example/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
@@ -313,9 +313,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Shape-Inspired Architecture Design</title>
-      <link>/talk/2018webinar/</link>
+      <link>/tmp/talk/2018webinar/</link>
       <pubDate>Sun, 06 May 2018 09:30:00 +0000</pubDate>
-      <guid>/talk/2018webinar/</guid>
+      <guid>/tmp/talk/2018webinar/</guid>
       <description></description>
     </item>
     

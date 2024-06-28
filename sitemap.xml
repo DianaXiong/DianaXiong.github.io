@@ -18,12 +18,12 @@
   </url>
   
   <url>
-    <loc>/patent/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2023-11-07T00:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>/tmp/</loc>
     <lastmod>2023-11-07T00:00:00+08:00</lastmod>
   </url>
   
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>/patent/textureselectionsoftware/</loc>
+    <loc>/tmp/patent/textureselectionsoftware/</loc>
     <lastmod>2023-11-07T00:00:00+08:00</lastmod>
   </url>
   
@@ -48,7 +48,7 @@
   </url>
   
   <url>
-    <loc>/patent/texturesoftware/</loc>
+    <loc>/tmp/patent/texturesoftware/</loc>
     <lastmod>2023-09-11T00:00:00+08:00</lastmod>
   </url>
   
@@ -58,7 +58,7 @@
   </url>
   
   <url>
-    <loc>/patent/textureinpainting/</loc>
+    <loc>/tmp/patent/textureinpainting/</loc>
     <lastmod>2023-09-08T00:00:00+08:00</lastmod>
   </url>
   
@@ -108,7 +108,7 @@
   </url>
   
   <url>
-    <loc>/patent/textureselection/</loc>
+    <loc>/tmp/patent/textureselection/</loc>
     <lastmod>2023-07-18T00:00:00+08:00</lastmod>
   </url>
   
@@ -208,12 +208,12 @@
   </url>
   
   <url>
-    <loc>/talk/2021workshop/</loc>
+    <loc>/tmp/talk/2021workshop/</loc>
     <lastmod>2021-08-31T16:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>/tmp/talk/</loc>
     <lastmod>2021-08-31T16:00:00+00:00</lastmod>
   </url>
   
@@ -233,7 +233,7 @@
   </url>
   
   <url>
-    <loc>/patent/porepatent/</loc>
+    <loc>/tmp/patent/porepatent/</loc>
     <lastmod>2021-03-20T00:00:00+08:00</lastmod>
   </url>
   
@@ -253,22 +253,17 @@
   </url>
   
   <url>
-    <loc>/talk/2020webinar/</loc>
+    <loc>/tmp/talk/2020webinar/</loc>
     <lastmod>2020-11-03T09:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/</loc>
+    <loc>/tmp/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/2018webinar/</loc>
+    <loc>/tmp/talk/2018webinar/</loc>
     <lastmod>2018-05-06T09:30:00+00:00</lastmod>
   </url>
   
@@ -328,7 +323,7 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/tmp/post/</loc>
   </url>
   
   <url>
