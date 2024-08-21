@@ -5,12 +5,44 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2024</copyright><lastBuildDate>Tue, 07 Nov 2023 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2024</copyright><lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>**Weidan Xiong**</title>
+      <link>/authors/weidan-xiong/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/weidan-xiong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jinyuan Jia*</title>
+      <link>/authors/jinyuan-jia/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/jinyuan-jia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peng Ren</title>
+      <link>/authors/peng-ren/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/peng-ren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ziang Lu</title>
+      <link>/authors/ziang-lu/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/ziang-lu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>**熊卫丹**</title>
@@ -41,14 +73,6 @@
       <link>/authors/%E5%BD%AD%E5%8D%9A%E9%9F%AC/</link>
       <pubDate>Mon, 11 Sep 2023 00:00:00 +0800</pubDate>
       <guid>/authors/%E5%BD%AD%E5%8D%9A%E9%9F%AC/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>**Weidan Xiong**</title>
-      <link>/authors/weidan-xiong/</link>
-      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/authors/weidan-xiong/</guid>
       <description></description>
     </item>
     

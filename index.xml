@@ -5,12 +5,21 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Weidan Xiong</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2024</copyright><lastBuildDate>Tue, 07 Nov 2023 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2024</copyright><lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Weidan Xiong</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>LightUrban: Similarity Based Fine-grained Instancing for Lightweighting Complex Urban Point Clouds</title>
+      <link>/project/lighturban/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/project/lighturban/</guid>
+      <description>&lt;p&gt;Large-scale urban point clouds play a vital role in various applications, while rendering and transmitting such data remains challenging due to its large volume, complicated structures, and significant redundancy. In this paper, we present LightUrban, the first point cloud instancing framework for efficient rendering and transmission of fine-grained complex urban scenes. We first introduce a segmentation method to organize the point clouds into individual buildings and vegetation instances from coarse to fine.Next, we propose an unsupervised similarity detection approach to accurately group instances with similar shapes. Furthermore, a fast pose and size estimation component is applied to calculate the transformations between the representative instance and the corresponding similar instances in each group. By replacing individual instances with their group&amp;rsquo;s representative instances, the data volume and redundancy can be dramatically reduced. Experimental results on large-scale urban scenes demonstrate the effectiveness of our algorithm. To sum up, our method not only structures the urban point clouds but also significantly reduces data volume and redundancy, filling the gap in point cloud instancing.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>纹理贴图的视角选择和纹理对齐软件</title>
