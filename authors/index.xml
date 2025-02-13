@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2024</copyright><lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2025</copyright><lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -257,13 +257,19 @@
       <link>/authors/2022-yongli/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/2022-yongli/</guid>
-      <description>&lt;p&gt;&lt;b&gt;Email&lt;/b&gt;:   1569731402@qq.com&lt;/p&gt;
+      <description>&lt;p&gt;&lt;font color=green&gt;I&amp;rsquo;m looking for job opportunity. Please reach me if you are interested.&lt;/font&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Email&lt;/b&gt;:   1569731402@qq.com&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Github&lt;/b&gt;:  &lt;a href=&#34;https://github.com/Ligo04&#34; target=&#34;_blank&#34;&gt;https://github.com/Ligo04&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Publications and Patents&lt;/b&gt;:&lt;/p&gt;
 
 &lt;p&gt;[1] Weidan Xiong, Hongqian Zhang, Botao Peng, Ziyu Hu, &lt;b&gt;Yongli Wu&lt;/b&gt;, Jianwei Guo, Hui Huang*, &amp;ldquo;TwinTex: Geometry-aware Texture Generation for Abstracted 3D Architectural Models&amp;rdquo;, ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023).&lt;/p&gt;
+
+&lt;p&gt;[2] &amp;ldquo;一种建筑纹理重建方法、系统、设备及存储介质&amp;rdquo;, 发明专利, 2024.&lt;/p&gt;
+
+&lt;p&gt;[3] &amp;ldquo;基于可微分渲染的建筑纹理重建软件&amp;rdquo;, 软件著作权, 2024.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Experience&lt;/b&gt;:&lt;/p&gt;
 
@@ -282,11 +288,17 @@
       <link>/authors/2022-ziyu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/2022-ziyu/</guid>
-      <description>&lt;p&gt;&lt;b&gt;Email&lt;/b&gt;:   1976647881@qq.com&lt;/p&gt;
+      <description>&lt;p&gt;&lt;font color=green&gt;I&amp;rsquo;m looking for job opportunity. Please reach me if you are interested.&lt;/font&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Email&lt;/b&gt;:   1976647881@qq.com&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Publications and Patents&lt;/b&gt;:&lt;/p&gt;
 
 &lt;p&gt;[1] Weidan Xiong, Hongqian Zhang, Botao Peng, &lt;b&gt;Ziyu Hu&lt;/b&gt;, Yongli Wu, Jianwei Guo, Hui Huang*, &amp;ldquo;TwinTex: Geometry-aware Texture Generation for Abstracted 3D Architectural Models&amp;rdquo;, ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023).&lt;/p&gt;
+
+&lt;p&gt;[2] &amp;ldquo;一种无人机路径规划方法、装置、终端及存储介质&amp;rdquo;, 发明专利, 2024.&lt;/p&gt;
+
+&lt;p&gt;[3] &amp;ldquo;用于重建结构化模型几何与纹理的无人机路径规划软件&amp;rdquo;, 软件著作权, 2024.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Experience&lt;/b&gt;:&lt;/p&gt;
 
@@ -302,6 +314,12 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/2023-bochuan/</guid>
       <description>&lt;p&gt;&lt;b&gt;Email&lt;/b&gt;:    2546542875@qq.com&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Publications and Patents&lt;/b&gt;:&lt;/p&gt;
+
+&lt;p&gt;[1] &amp;ldquo;一种无人机路径规划方法、装置、终端及存储介质&amp;rdquo;, 发明专利, 2024.&lt;/p&gt;
+
+&lt;p&gt;[2] &amp;ldquo;用于重建结构化模型几何与纹理的无人机路径规划软件&amp;rdquo;, 软件著作权, 2024.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Experience&lt;/b&gt;:&lt;/p&gt;
 
@@ -327,7 +345,11 @@
       <link>/authors/2023-mingqi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/2023-mingqi/</guid>
-      <description>&lt;p&gt;Email:   marlonqq77@gmail.com&lt;/p&gt;
+      <description>&lt;p&gt;&lt;b&gt;Email&lt;/b&gt;:   marlonqq77@gmail.com&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Experience&lt;/b&gt;:&lt;/p&gt;
+
+&lt;p&gt;2025.02-2025.07: Teaching Assistant of Computer Vision.&lt;/p&gt;
 </description>
     </item>
     
@@ -336,7 +358,7 @@
       <link>/authors/2023-peihua/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/2023-peihua/</guid>
-      <description>&lt;p&gt;Email:   peihuachen2001@gmail.com&lt;/p&gt;
+      <description>&lt;p&gt;&lt;b&gt;Email&lt;/b&gt;:   peihuachen2001@gmail.com&lt;/p&gt;
 </description>
     </item>
     
@@ -345,7 +367,7 @@
       <link>/authors/2024-hao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/2024-hao/</guid>
-      <description>&lt;p&gt;Email:   1434828490@qq.com&lt;/p&gt;
+      <description>&lt;p&gt;&lt;b&gt;Email&lt;/b&gt;:   1434828490@qq.com&lt;/p&gt;
 </description>
     </item>
     
@@ -354,7 +376,7 @@
       <link>/authors/2024-shihao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/2024-shihao/</guid>
-      <description>&lt;p&gt;Email:   1608355521@qq.com&lt;/p&gt;
+      <description>&lt;p&gt;&lt;b&gt;Email&lt;/b&gt;:   1608355521@qq.com&lt;/p&gt;
 </description>
     </item>
     
