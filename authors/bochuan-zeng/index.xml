@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bochuan Zeng | Weidan Xiong</title>
+    <link>/authors/bochuan-zeng/</link>
+      <atom:link href="/authors/bochuan-zeng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bochuan Zeng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2025</copyright><lastBuildDate>Tue, 26 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Bochuan Zeng</title>
+      <link>/authors/bochuan-zeng/</link>
+    </image>
+    
+    <item>
+      <title>Aerial Path Planning for Urban Geometry and Texture Co-Capture</title>
+      <link>/project/dronetex/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/project/dronetex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DiffTex: Differentiable Texturing for Architectural Proxy Models</title>
+      <link>/project/difftex/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/project/difftex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

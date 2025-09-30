@@ -5,12 +5,28 @@
     <link>/authors/jianwei-guo/</link>
       <atom:link href="/authors/jianwei-guo/index.xml" rel="self" type="application/rss+xml" />
     <description>Jianwei Guo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2025</copyright><lastBuildDate>Sat, 05 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2025</copyright><lastBuildDate>Tue, 26 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Jianwei Guo</title>
       <link>/authors/jianwei-guo/</link>
     </image>
+    
+    <item>
+      <title>Aerial Path Planning for Urban Geometry and Texture Co-Capture</title>
+      <link>/project/dronetex/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/project/dronetex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DiffTex: Differentiable Texturing for Architectural Proxy Models</title>
+      <link>/project/difftex/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/project/difftex/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>TwinTex: Geometry-aware Texture Generation for Abstracted 3D Architectural Models</title>

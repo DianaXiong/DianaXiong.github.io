@@ -3,12 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/authors/daniel-cohen-or/</loc>
+    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/weidan-xiong/</loc>
+    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/dronetex/</loc>
     <lastmod>2025-08-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>/authors/</loc>
+    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/bochuan-zeng/</loc>
+    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/dani-lischinski/</loc>
+    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/difftex/</loc>
+    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/hui-huang/</loc>
+    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jianwei-guo/</loc>
+    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ke-xie/</loc>
     <lastmod>2025-08-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,13 +63,13 @@
   </url>
   
   <url>
-    <loc>/authors/weidan-xiong/</loc>
-    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
+    <loc>/authors/yongli-wu/</loc>
+    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
+    <loc>/authors/ziyu-hu/</loc>
+    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -113,27 +153,7 @@
   </url>
   
   <url>
-    <loc>/authors/hui-huang/</loc>
-    <lastmod>2023-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/jianwei-guo/</loc>
-    <lastmod>2023-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/twintex/</loc>
-    <lastmod>2023-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/yongli-wu/</loc>
-    <lastmod>2023-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/ziyu-hu/</loc>
     <lastmod>2023-08-05T00:00:00+00:00</lastmod>
   </url>
   

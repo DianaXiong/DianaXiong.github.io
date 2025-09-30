@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2025</copyright><lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2025</copyright><lastBuildDate>Tue, 26 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,10 +13,74 @@
     </image>
     
     <item>
+      <title> Daniel Cohen-Or</title>
+      <link>/authors/daniel-cohen-or/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-cohen-or/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>**Weidan Xiong**</title>
       <link>/authors/weidan-xiong/</link>
-      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/authors/weidan-xiong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bochuan Zeng</title>
+      <link>/authors/bochuan-zeng/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/bochuan-zeng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dani Lischinski</title>
+      <link>/authors/dani-lischinski/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/dani-lischinski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hui Huang*</title>
+      <link>/authors/hui-huang/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/hui-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jianwei Guo</title>
+      <link>/authors/jianwei-guo/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/jianwei-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ke Xie</title>
+      <link>/authors/ke-xie/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/ke-xie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yongli Wu</title>
+      <link>/authors/yongli-wu/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/yongli-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ziyu Hu</title>
+      <link>/authors/ziyu-hu/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/ziyu-hu/</guid>
       <description></description>
     </item>
     
@@ -89,38 +153,6 @@
       <link>/authors/hongqian-zhang/</link>
       <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
       <guid>/authors/hongqian-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hui Huang*</title>
-      <link>/authors/hui-huang/</link>
-      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/authors/hui-huang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jianwei Guo</title>
-      <link>/authors/jianwei-guo/</link>
-      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/authors/jianwei-guo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yongli Wu</title>
-      <link>/authors/yongli-wu/</link>
-      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/authors/yongli-wu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ziyu Hu</title>
-      <link>/authors/ziyu-hu/</link>
-      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/authors/ziyu-hu/</guid>
       <description></description>
     </item>
     
