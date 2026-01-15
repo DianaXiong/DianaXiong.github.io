@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2025</copyright><lastBuildDate>Tue, 26 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2026</copyright><lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,18 +13,50 @@
     </image>
     
     <item>
-      <title> Daniel Cohen-Or</title>
-      <link>/authors/daniel-cohen-or/</link>
-      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>/authors/daniel-cohen-or/</guid>
+      <title>**Weidan Xiong**</title>
+      <link>/authors/weidan-xiong/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/weidan-xiong/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>**Weidan Xiong**</title>
-      <link>/authors/weidan-xiong/</link>
+      <title>Jianmin Zheng*</title>
+      <link>/authors/jianmin-zheng/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/jianmin-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peng Song</title>
+      <link>/authors/peng-song/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/peng-song/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yongli Wu</title>
+      <link>/authors/yongli-wu/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/yongli-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ziyu Hu</title>
+      <link>/authors/ziyu-hu/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/ziyu-hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Daniel Cohen-Or</title>
+      <link>/authors/daniel-cohen-or/</link>
       <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>/authors/weidan-xiong/</guid>
+      <guid>/authors/daniel-cohen-or/</guid>
       <description></description>
     </item>
     
@@ -65,22 +97,6 @@
       <link>/authors/ke-xie/</link>
       <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/authors/ke-xie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yongli Wu</title>
-      <link>/authors/yongli-wu/</link>
-      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>/authors/yongli-wu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ziyu Hu</title>
-      <link>/authors/ziyu-hu/</link>
-      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>/authors/ziyu-hu/</guid>
       <description></description>
     </item>
     
@@ -265,14 +281,6 @@
       <link>/authors/edward-dale-davis/</link>
       <pubDate>Sat, 20 Mar 2021 00:00:00 +0800</pubDate>
       <guid>/authors/edward-dale-davis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jianmin Zheng</title>
-      <link>/authors/jianmin-zheng/</link>
-      <pubDate>Sat, 20 Mar 2021 00:00:00 +0800</pubDate>
-      <guid>/authors/jianmin-zheng/</guid>
       <description></description>
     </item>
     

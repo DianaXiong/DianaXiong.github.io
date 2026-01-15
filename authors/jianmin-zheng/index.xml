@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jianmin Zheng | Weidan Xiong</title>
+    <title>Jianmin Zheng* | Weidan Xiong</title>
     <link>/authors/jianmin-zheng/</link>
       <atom:link href="/authors/jianmin-zheng/index.xml" rel="self" type="application/rss+xml" />
-    <description>Jianmin Zheng</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2025</copyright><lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0800</lastBuildDate>
+    <description>Jianmin Zheng*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2026</copyright><lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Jianmin Zheng</title>
+      <title>Jianmin Zheng*</title>
       <link>/authors/jianmin-zheng/</link>
     </image>
+    
+    <item>
+      <title>Paver: Element-based Pattern Creation on 3D Free-Form Surfaces</title>
+      <link>/project/paver/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/project/paver/</guid>
+      <description>&lt;p&gt;This paper presents Paver, an interactive tool for designing structured patterns composed of 3D elements on free-form 3D surfaces.  To address the inherent complexity of direct pattern creation in 3D space, we introduce a parametric design model that allows users to define patterns on a 2D parameter plane. Each pattern is defined by an underlying tessellation and isometric elements. A bijective mapping then lifts these 2D designs onto the target input surface. To ensure structural coherence and accommodate surface curvature, we model the tessellation as a 2D mass-spring system and propose an optimization method to adjust the particle positions on the 2D parameter plane under well-designed system forces. Once optimized, the tessellation is transferred to the 3D surface, generating the final element-based pattern. Paver supports diverse pattern types and offers real-time feedback, enabling designers to iteratively explore and refine complex surface decorations with ease. Experimental results are presented to demonstrate the effectiveness of our Paver.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Design Element Placement on 3D Surfaces</title>

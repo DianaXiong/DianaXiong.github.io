@@ -5,12 +5,21 @@
     <link>/authors/weidan-xiong/</link>
       <atom:link href="/authors/weidan-xiong/index.xml" rel="self" type="application/rss+xml" />
     <description>**Weidan Xiong**</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2025</copyright><lastBuildDate>Tue, 26 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2026</copyright><lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>**Weidan Xiong**</title>
       <link>/authors/weidan-xiong/</link>
     </image>
+    
+    <item>
+      <title>Paver: Element-based Pattern Creation on 3D Free-Form Surfaces</title>
+      <link>/project/paver/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/project/paver/</guid>
+      <description>&lt;p&gt;This paper presents Paver, an interactive tool for designing structured patterns composed of 3D elements on free-form 3D surfaces.  To address the inherent complexity of direct pattern creation in 3D space, we introduce a parametric design model that allows users to define patterns on a 2D parameter plane. Each pattern is defined by an underlying tessellation and isometric elements. A bijective mapping then lifts these 2D designs onto the target input surface. To ensure structural coherence and accommodate surface curvature, we model the tessellation as a 2D mass-spring system and propose an optimization method to adjust the particle positions on the 2D parameter plane under well-designed system forces. Once optimized, the tessellation is transferred to the 3D surface, generating the final element-based pattern. Paver supports diverse pattern types and offers real-time feedback, enabling designers to iteratively explore and refine complex surface decorations with ease. Experimental results are presented to demonstrate the effectiveness of our Paver.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Aerial Path Planning for Urban Geometry and Texture Co-Capture</title>
