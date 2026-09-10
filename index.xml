@@ -5,12 +5,38 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Weidan Xiong</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2026</copyright><lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2026</copyright><lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Weidan Xiong</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Architectural Textured Proxy Generation</title>
+      <link>/project/texproxy/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/project/texproxy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SiZeUp: Fast 3D Proxy from Aerial Images via Depth Ordinal Loss</title>
+      <link>/project/sizeup/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/project/sizeup/</guid>
+      <description>&lt;p&gt;We present SiZeUp, a fast and scalable approach for constructing large-scale 3D urban proxy models directly from calibrated oblique aerial imagery. Our method adopts a height-from-footprint representation, reducing 3D building abstraction to a low-dimensional optimization problem in which building footprints are extruded by a single height parameter. To enable efficient and robust height estimation, we introduce an ordinal depth consistency loss that enforces agreement between the relative depth ordering of rendered proxies and depth priors predicted by a monocular depth model. This is realized through a differentiable renderer that maps parametric building proxies into multi-view depth images, allowing gradients to be propagated from depth supervision to building heights. Our ordinal formulation produces stable optimization in practice and avoids explicit feature matching or dense point cloud reconstruction. Rather than relying on metric depth, which can be unreliable under monocular scale ambiguity, our ordinal depth consistency loss operates on relative depths, providing a more reliable signal across views. Combined with an efficient dynamic view selection, our approach achieves a 23-52 × speedup over state-of-the-art proxy reconstruction pipelines while maintaining comparable proxy-level coverage and volume consistency, making it well suited for large-scale urban modeling tasks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Segmenting Geometric Textures of 3D Meshes</title>
+      <link>/project/geotex/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/project/geotex/</guid>
+      <description>&lt;p&gt;Recognizing geometric texture patterns on 3D models is critical for applications such as heritage protection, model editing, and 3D printing. Existing 3D model segmentation methods predominantly focus on identifying high-level semantic parts, thereby failing to capture middle-level textures. While recent Vision-Language Models can perform image segmentation with appropri-ate text prompts, they still struggle to recognize 3D geometric textures. In this work, we present a method that segments 3D mesh models based on middle-level geometric textures. We further introduce a new geometric texture segmentation benchmark and fine-tune SAM3 accordingly. The segmented texture regions are then clustered based on DINO feature similarity and lifted from 2D to 3D. Additionally, we develop an interactive tool to enable both 3D model editing based on our segmentation results and model retrieval from the dataset based on geometric and texture similarity. Experiments demonstrate that our method significantly outperforms existing methods in segmenting geometric textures and can facilitate various applications.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Paver: Element-based Pattern Creation on 3D Free-Form Surfaces</title>

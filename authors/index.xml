@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2026</copyright><lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2026</copyright><lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,10 +13,106 @@
     </image>
     
     <item>
+      <title> Daniel Cohen-Or</title>
+      <link>/authors/daniel-cohen-or/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-cohen-or/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>**Weidan Xiong**</title>
       <link>/authors/weidan-xiong/</link>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
       <guid>/authors/weidan-xiong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hao Li</title>
+      <link>/authors/hao-li/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/hao-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hui Huang*</title>
+      <link>/authors/hui-huang/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/hui-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaijie Qu</title>
+      <link>/authors/kaijie-qu/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/kaijie-qu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mingqi Zhang</title>
+      <link>/authors/mingqi-zhang/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/mingqi-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shihao Feng</title>
+      <link>/authors/shihao-feng/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/shihao-feng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hao Zhang</title>
+      <link>/authors/hao-zhang/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/hao-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qiaoyu Zhu</title>
+      <link>/authors/qiaoyu-zhu/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/qiaoyu-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wenjun Zhou</title>
+      <link>/authors/wenjun-zhou/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/wenjun-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yunshan Li</title>
+      <link>/authors/yunshan-li/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/yunshan-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rongyu Xiong</title>
+      <link>/authors/rongyu-xiong/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/rongyu-xiong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shunqi Fan</title>
+      <link>/authors/shunqi-fan/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/shunqi-fan/</guid>
       <description></description>
     </item>
     
@@ -53,14 +149,6 @@
     </item>
     
     <item>
-      <title> Daniel Cohen-Or</title>
-      <link>/authors/daniel-cohen-or/</link>
-      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>/authors/daniel-cohen-or/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Bochuan Zeng</title>
       <link>/authors/bochuan-zeng/</link>
       <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
@@ -73,14 +161,6 @@
       <link>/authors/dani-lischinski/</link>
       <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/authors/dani-lischinski/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hui Huang*</title>
-      <link>/authors/hui-huang/</link>
-      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>/authors/hui-huang/</guid>
       <description></description>
     </item>
     
@@ -299,6 +379,14 @@
       <guid>/authors/2024-hao/</guid>
       <description>&lt;p&gt;&lt;b&gt;Email&lt;/b&gt;:   1434828490@qq.com&lt;/p&gt;
 
+&lt;p&gt;&lt;b&gt;Publications and Patents&lt;/b&gt;:&lt;/p&gt;
+
+&lt;p&gt;[1] Weidan Xiong, Shihao Feng, Kaijie Qu, &lt;b&gt;Hao Li&lt;/b&gt;, Mingqi Zhang, Daniel Cohen-Or, Hui Huang*, &amp;ldquo;Architectural Textured Proxy Generation&amp;rdquo;, ACM SIGGRAPH Asia 2026.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Experience&lt;/b&gt;:&lt;/p&gt;
+
+&lt;p&gt;2026.07-2026.09: Intern in Tencent.&lt;/p&gt;
+
 &lt;p&gt;2025.09-2026.01: Teaching Assistant of Computer Graphics.&lt;/p&gt;
 </description>
     </item>
@@ -309,6 +397,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/2024-shihao/</guid>
       <description>&lt;p&gt;&lt;b&gt;Email&lt;/b&gt;:   1608355521@qq.com&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Publications and Patents&lt;/b&gt;:&lt;/p&gt;
+
+&lt;p&gt;[1] Weidan Xiong, &lt;b&gt;Shihao Feng&lt;/b&gt;, Kaijie Qu, Hao Li, Mingqi Zhang, Daniel Cohen-Or, Hui Huang*, &amp;ldquo;Architectural Textured Proxy Generation&amp;rdquo;, ACM SIGGRAPH Asia 2026.&lt;/p&gt;
+
+&lt;p&gt;[2] Weidan Xiong, Kaijie Qu, &lt;b&gt;Shihao Feng&lt;/b&gt;, Shunqi Fan, Rongyu Xiong, Hui Huang*, &amp;ldquo;Segmenting Geometric Textures of 3D Meshes&amp;rdquo;, Pacific Graphics 2026.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Experience&lt;/b&gt;:&lt;/p&gt;
+
+&lt;p&gt;2026.09-2026.11: Intern in DJI.&lt;/p&gt;
 
 &lt;p&gt;2026.03-2026.08: Teaching Assistant of Computer Vision.&lt;/p&gt;
 </description>
@@ -329,6 +427,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/2025-kaijie/</guid>
       <description>&lt;p&gt;&lt;b&gt;Email&lt;/b&gt;:   2500101093@mails.szu.edu.cn&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Publications and Patents&lt;/b&gt;:&lt;/p&gt;
+
+&lt;p&gt;[1] Weidan Xiong, &lt;b&gt;Kaijie Qu&lt;/b&gt;, Shihao Feng, Shunqi Fan, Rongyu Xiong, Hui Huang*, &amp;ldquo;Segmenting Geometric Textures of 3D Meshes&amp;rdquo;, Pacific Graphics 2026.&lt;/p&gt;
+
+&lt;p&gt;[2] Weidan Xiong, Shihao Feng, &lt;b&gt;Kaijie Qu&lt;/b&gt;, Hao Li, Mingqi Zhang, Daniel Cohen-Or,, Hui Huang*, &amp;ldquo;Architectural Textured Proxy Generation&amp;rdquo;, ACM SIGGRAPH Asia 2026.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Experience&lt;/b&gt;:&lt;/p&gt;
+
+&lt;p&gt;2026.09-2027.01: Teaching Assistant of Computer Graphics.&lt;/p&gt;
 </description>
     </item>
     
