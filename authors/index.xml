@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2026</copyright><lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2026</copyright><lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,18 +13,58 @@
     </image>
     
     <item>
-      <title> Daniel Cohen-Or</title>
-      <link>/authors/daniel-cohen-or/</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>/authors/daniel-cohen-or/</guid>
+      <title>**Weidan Xiong**</title>
+      <link>/authors/weidan-xiong/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/weidan-xiong/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>**Weidan Xiong**</title>
-      <link>/authors/weidan-xiong/</link>
+      <title>Hui Huang*</title>
+      <link>/authors/hui-huang/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/hui-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaijie Qu</title>
+      <link>/authors/kaijie-qu/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/kaijie-qu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rongyu Xiong</title>
+      <link>/authors/rongyu-xiong/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/rongyu-xiong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shihao Feng</title>
+      <link>/authors/shihao-feng/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/shihao-feng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shunqi Fan</title>
+      <link>/authors/shunqi-fan/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/shunqi-fan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Daniel Cohen-Or</title>
+      <link>/authors/daniel-cohen-or/</link>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>/authors/weidan-xiong/</guid>
+      <guid>/authors/daniel-cohen-or/</guid>
       <description></description>
     </item>
     
@@ -37,34 +77,10 @@
     </item>
     
     <item>
-      <title>Hui Huang*</title>
-      <link>/authors/hui-huang/</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>/authors/hui-huang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kaijie Qu</title>
-      <link>/authors/kaijie-qu/</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>/authors/kaijie-qu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mingqi Zhang</title>
       <link>/authors/mingqi-zhang/</link>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
       <guid>/authors/mingqi-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shihao Feng</title>
-      <link>/authors/shihao-feng/</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>/authors/shihao-feng/</guid>
       <description></description>
     </item>
     
@@ -97,22 +113,6 @@
       <link>/authors/yunshan-li/</link>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
       <guid>/authors/yunshan-li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rongyu Xiong</title>
-      <link>/authors/rongyu-xiong/</link>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>/authors/rongyu-xiong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shunqi Fan</title>
-      <link>/authors/shunqi-fan/</link>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>/authors/shunqi-fan/</guid>
       <description></description>
     </item>
     
